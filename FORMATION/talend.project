@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_rsVAEa68EeyjRLWf78W6cw" label="Formation" language="java" technicalLabel="FORMATION" author="_rsVAEq68EeyjRLWf78W6cw" productVersion="Talend Cloud Data Management Platform-8.0.1.20220218_1542-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/AOUKERROU/FORMATION.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_rsVAEa68EeyjRLWf78W6cw" label="Formation" language="java" technicalLabel="FORMATION" author="_rsVAEq68EeyjRLWf78W6cw" productVersion="Talend Cloud Data Management Platform-8.0.1.20220317_0634-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/AOUKERROU/FORMATION.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_rtO_AK68EeyjRLWf78W6cw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_rsVAEq68EeyjRLWf78W6cw" login="ayoub@marjane.co.ma" firstName="Ayoub" lastName="oukerrou" type="DQ"/>
   <TalendProperties:User xmi:id="_xW7LYK68EeyjRLWf78W6cw" login="yelmimouni@marjane.co.ma" firstName="Younes" lastName="El_Mimouni" type="DQ"/>
+  <TalendProperties:User xmi:id="_SVK4YK9dEeytGInrN8DE4g" login="merrahimi@marjane.co.ma" firstName="mouna" lastName="errahimi" type="DQ"/>
 </xmi:XMI>
